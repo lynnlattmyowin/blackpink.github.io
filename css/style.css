@@ -1,0 +1,8 @@
+body{
+	background-color: pink;
+	color: black;
+}
+
+.navbar .nav-link{
+	text-transform: uppercase;
+}
